@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chase Roohms!</h1>
+<h1 align="left">Hi! I'm Chase Roohms</h1>
 
 ###
 
@@ -8,52 +8,52 @@
 
 ###
 
-<h3 align="center">Security Engineer with a Development Background</h3>
-
+<p align="left">Hi, I’m Chase Roohms, a dedicated IT Professional with a strong background in Development, and a solid understanding of IT Security foundations. With nearly 3 years of solo development experience and an internship as a Security Engineer, I leverage my knowledge of both sides of the coin when faced with challenges.<br><br>Throughout my development experience I've focused on the foundations of data structures and algorithms, learning how to apply code to solve problems, rather than learning how to solve problems in one specific language. My primary development languages have been Java and Python, but I am also comfortable working in C++ and JavaScript. I pride myself on picking up new languages and frameworks quickly, because while some specifics and syntax can change, the logic never does.<br><br>My passion for learning and problem solving has led me to perpetually be "working on a project", from Discord Bots to a Linux Home Server, my hands and my computer are never idle. I do my best work in dynamic environments, where I can apply my technical expertise and problem-solving skills to challenges that I have yet to face.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="35" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="35" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="35" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
 
-<p align="left">Hi, I’m Chase Roohms, a dedicated Cybersecurity Professional with a strong development background. Currently I am working as an intern on the Incident Response Team at SolarWinds, where I validate potential security vulnerabilities and develop plans for mitigating risk.
-<br><br>
-My experience includes various essential tools and technologies, including Burp Suite, Nessus, and Jira. These tools enable me to validate security vulnerabilities, detect risks early, and streamline project tracking.
-<br><br>
-My passion for security, privacy, and knowledge has made me eager to stay ahead of the ever evolving threat landscape. I do my best work in dynamic environments, where I can apply my technical expertise and problem-solving skills to new challenges.</p>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chaseroohms/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/chaseroohms/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="chaseroohms@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.chaseroohms.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Website&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaseRoohms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ChaseRoohms&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaseRoohms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
